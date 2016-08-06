@@ -1,0 +1,21 @@
+/*GENERAL STYLES */
+.menu1 li, .menu2 li {
+	display: inline-block;
+}
+/* HEADER */
+.contacts {
+	width: 300px;
+	line-height: 30px;
+}
+/* NAVIGATION */
+.menu2 {
+	background-color: black;
+	line-height: 30px;
+}
+/* MAIN PART */
+
+/* FOOTER */
+span {
+	display: block;
+	line-height: 50px;
+}
